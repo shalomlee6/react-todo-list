@@ -11,8 +11,8 @@ class App extends Component {
       { id: 0, value: "Go to Potions Class" },
       { id: 1, value: "Buy New Robes" },
       { id: 2, value: "Visit Hagrid" },
-      { id: 2, value: "Read Book" },
-      { id: 2, value: "Run" }
+      { id: 3, value: "Read Book" },
+      { id: 4, value: "Run" }
     ]
   };
 

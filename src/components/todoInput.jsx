@@ -21,7 +21,6 @@ class TodoInput extends Component {
         >
           Submit
         </button>
-        <i class="far fa-plus-square"></i>
       </div>
     );
   }
